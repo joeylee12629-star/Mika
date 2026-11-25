@@ -27,7 +27,7 @@ class AllowanceRouteTest {
 
     @Test fun openDesignGoOpensItsDashboardWithoutAnAutomaticKeyQuery() {
         val go = route("https://amr-link.open-design.ai/v1")
-        assertEquals("https://open-design.ai/cloud/dashboard", go.dashboard)
+        assertEquals("https://open-design.ai/cloud/dashboard?utm_source=mika&utm_medium=app&utm_campaign=allowance", go.dashboard)
         assertNull(go.source)
         assertEquals(AllowanceRoute(), route("https://amr-link.open-design.ai.example.test/v1"))
     }

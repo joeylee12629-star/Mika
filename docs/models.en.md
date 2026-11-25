@@ -20,7 +20,7 @@ Whether a model can see images: if the provider's model list says, Mika goes by 
 
 ### OpenDesign Go
 
-Subscribe to [OpenDesign Go](https://go.open-design.ai/) and create a workspace API key using its [API setup guide](https://open-design.ai/help/cloud-api/). In Mika, add the **OpenDesign Go** preset, enter that key and tap **Test and save**. The preset uses Chat Completions at `https://amr-link.open-design.ai/v1`; Mika loads the models available to your key. If you type a model name, use an exact ID from that catalog and choose a tool-capable main model. Image support depends on the selected model, so use a suitable vision model for screenshot tasks.
+Subscribe to [OpenDesign Go](https://go.open-design.ai/?utm_source=mika&utm_medium=referral&utm_campaign=provider_docs&utm_content=models_en) and create a workspace API key using its [API setup guide](https://open-design.ai/help/cloud-api/?utm_source=mika&utm_medium=referral&utm_campaign=provider_docs&utm_content=models_en). In Mika, add the **OpenDesign Go** preset, enter that key and tap **Test and save**. The preset uses Chat Completions at `https://amr-link.open-design.ai/v1`; Mika loads the models available to your key. If you type a model name, use an exact ID from that catalog and choose a tool-capable main model. Image support depends on the selected model, so use a suitable vision model for screenshot tasks.
 
 ## Check task cost
 

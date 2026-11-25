@@ -20,7 +20,7 @@ Mika 不带模型，用你自己选的模型服务商：填一把 API Key，或�
 
 ### OpenDesign Go
 
-订阅 [OpenDesign Go](https://go.open-design.ai/)，按[API 接入说明](https://open-design.ai/help/cloud-api/)创建工作区 Key。在 Mika 添加 **OpenDesign Go** 预设，填写这把 Key，点「测试并保存」。预设使用 Chat Completions，地址为 `https://amr-link.open-design.ai/v1`；Mika 会读取这把 Key 可用的模型。手填模型名时使用目录里的准确 ID，主模型须支持工具调用。看图能力取决于具体模型，屏幕任务请配置合适的视觉模型。
+订阅 [OpenDesign Go](https://go.open-design.ai/?utm_source=mika&utm_medium=referral&utm_campaign=provider_docs&utm_content=models_zh)，按[API 接入说明](https://open-design.ai/help/cloud-api/?utm_source=mika&utm_medium=referral&utm_campaign=provider_docs&utm_content=models_zh)创建工作区 Key。在 Mika 添加 **OpenDesign Go** 预设，填写这把 Key，点「测试并保存」。预设使用 Chat Completions，地址为 `https://amr-link.open-design.ai/v1`；Mika 会读取这把 Key 可用的模型。手填模型名时使用目录里的准确 ID，主模型须支持工具调用。看图能力取决于具体模型，屏幕任务请配置合适的视觉模型。
 
 ## 查看任务费用
 
